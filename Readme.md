@@ -1,5 +1,5 @@
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyaacharya&show_icons=true&theme=dracula" alt="diyaacharya"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaacharya&layout=compact" alt="diyaacharya" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HemaNaidu0702&show_icons=true&theme=dracula" alt="HemaNaidu"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaNaidu0702&layout=compact" alt="HemaNaidu" /></br>
 
